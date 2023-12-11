@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-postgres",
+  "version": "1.0.0",
+  "description": "An example repository to connect node.js with a postgres db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geshan/nodejs-postgres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geshan/nodejs-postgres/issues"
+  },
+  "homepage": "https://github.com/geshan/nodejs-postgres#readme"
+}
